@@ -1,0 +1,1 @@
+En este ejercicio leemos un fichero llamado productos.txt y muestra por consola el nombre y precio de cada producto. Utilizamos BufferedReader y fileReader dentro de un try, Cada linea la dividimos usando split(",") para separar nombre y precio. SI la línea tiene el formato correcto, extrae los datos y los muestra por pantalla, incluimos IOException.
